@@ -1,2 +1,1 @@
-# HackYourFriend
-hack your friend with 3 virus that we have
+we are not responsible for the risk you accept from using my script.
